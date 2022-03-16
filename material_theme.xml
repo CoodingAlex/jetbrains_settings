@@ -1,14 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="contrastMode" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="useColoredDirectories" value="true" />
     <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="d33682" />
-    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
+    <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="userId" value="11af29b1:17f8919fa91:-8000" />
     <option name="version" value="6.14.1" />
     <option name="tabFont" value="Cascadia Code" />
