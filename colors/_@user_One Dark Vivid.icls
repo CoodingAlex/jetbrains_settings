@@ -3,7 +3,7 @@
     <property name="created">2022-05-12T16:20:45</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-05-19T23:30:36</property>
+    <property name="modified">2022-05-19T23:40:20</property>
     <property name="originalScheme">One Dark Vivid</property>
   </metaInfo>
   <colors>
@@ -2141,9 +2141,32 @@
         <option name="FOREGROUND" value="ff8c00" />
       </value>
     </option>
+    <option name="TS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="d55fde" />
+      </value>
+    </option>
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
+      </value>
+    </option>
+    <option name="TS.STATIC_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TS.TYPE_GUARD">
