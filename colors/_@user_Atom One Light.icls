@@ -1,10 +1,10 @@
-<scheme name="_@user_IntelliJ Light" version="142" parent_scheme="Default">
+<scheme name="_@user_Atom One Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-05-12T16:20:45</property>
+    <property name="created">2022-07-30T13:17:13</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.3.1.0.0</property>
+    <property name="ideVersion">2022.2.0.0</property>
     <property name="modified">2022-08-01T14:59:14</property>
-    <property name="originalScheme">IntelliJ Light</property>
+    <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="fcfaed" />
@@ -32,11 +32,12 @@
     <option name="FILESTATUS_addedOutside" value="ffcb6b" />
     <option name="FILESTATUS_changelistConflict" value="fc9867" />
     <option name="FILESTATUS_modifiedOutside" value="c792ea" />
-    <option name="GUTTER_BACKGROUND" value="f2f2f2" />
+    <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="LINE_NUMBERS_COLOR" value="adadad" />
     <option name="SELECTION_BACKGROUND" value="a6d2ff" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="TEARLINE_COLOR" value="d4d4d4" />
+    <option name="SEPARATOR_BELOW_COLOR" value="eaeaea" />
+    <option name="TEARLINE_COLOR" value="eaeaea" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
@@ -226,11 +227,6 @@
         <option name="FOREGROUND" value="33b3" />
       </value>
     </option>
-    <option name="GO_COMMENT_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="525252" />
-      </value>
-    </option>
     <option name="GO_EXPORTED_FUNCTION">
       <value>
         <option name="FOREGROUND" value="286d73" />
@@ -276,11 +272,6 @@
         <option name="FOREGROUND" value="871094" />
       </value>
     </option>
-    <option name="GO_SHADOWING_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="708c00" />
-      </value>
-    </option>
     <option name="GO_TYPE_REFERENCE">
       <value>
         <option name="FOREGROUND" value="336ecc" />
@@ -318,6 +309,11 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="264eff" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="e63900" />
       </value>
     </option>
     <option name="List/map to object conversion">
