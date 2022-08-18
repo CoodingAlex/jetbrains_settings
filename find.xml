@@ -18,9 +18,9 @@
     <mask>*.json</mask>
     <mask>*.model.ts</mask>
     <mask>*.module.ts</mask>
-    <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.component.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
