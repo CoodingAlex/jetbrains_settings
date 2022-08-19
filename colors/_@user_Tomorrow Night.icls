@@ -4,7 +4,7 @@
     <property name="created">2022-05-12T16:20:45</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-05-20T11:20:34</property>
+    <property name="modified">2022-08-19T15:08:38</property>
     <property name="originalScheme">Tomorrow Night</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -3234,8 +3234,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="cc6666" />
