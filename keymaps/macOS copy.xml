@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta alt 7" />
   </action>
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -16,6 +19,7 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
+  <action id="EditorUnindentSelection" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="NavBar-selectHome">
     <keyboard-shortcut first-keystroke="home" />
@@ -25,10 +29,14 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="PrevParameter" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="PreviousTemplateVariable" />
+  <action id="SearchEverywhere.PrevTab" />
+  <action id="SplitChooser.PreviousWindow" />
   <action id="copilot.cycleNextInlays">
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
